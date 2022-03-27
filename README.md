@@ -7,5 +7,8 @@ Anno accademico 2021/22
 
 <b> Esercizi: </b>
 </br>
-<i>wip</wip>
+Esercizio 1:
+    Creare un file .xml ed inserire un prologo con la dichiarazione XML e un commento con le vostre informazioni
+
+<br />
 
