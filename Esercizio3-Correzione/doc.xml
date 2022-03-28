@@ -14,11 +14,12 @@
 
         </noWell> non è correttamente annidato
         -->
-        <noWell>
-      
-            <noWellNested>
-            </noWellNested>
+        
+        <Well>
+            <WellNested>
+            </WellNested>
         <!-- ora il documento XML è correttamente annidato -->  
-        </noWell>
+        </Well>
+        
     </tag>
 </doc>
