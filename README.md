@@ -14,9 +14,10 @@ Anno accademico 2021/22
   * Scrivere e fare il check di un xml non opportunamente annidato
 
 * Esercizio 3:
-  * Scaricare il file doc.xml e fare il check di validazione
-  * Correggere il file
-  * Validarlo con Xerces
+  * Scaricare il file doc.xml dalla cartella CorsoCodifica del corso e fare il check di validazione
+  * Correggere il file, commentando errori e modifiche
+  * Aggiungere un figlio (_child_) ad un elemento
+  * Aggiungere un fratello (_sibling_) ad un elemento
 
 <br />
 
