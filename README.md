@@ -10,5 +10,7 @@ Anno accademico 2021/22
 * Esercizio 1:
   * Creare un file .xml ed inserire un prologo con la dichiarazione XML e un commento con le vostre informazioni
 
+* Esercizio 2:
+  * Scrivere e fare il check di un xml non opportunamente annidato
 <br />
 
