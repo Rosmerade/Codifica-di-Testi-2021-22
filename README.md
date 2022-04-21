@@ -19,5 +19,8 @@ Anno accademico 2021/22
   * Aggiungere un figlio (_child_) ad un elemento
   * Aggiungere un fratello (_sibling_) ad un elemento
 
+* Esercizio 4: 
+  * Inserire CDATA all'interno di un frammento di codice HTML 
+
 <br />
 
