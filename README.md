@@ -42,6 +42,12 @@ _wip_
         * _facsimile_ > source (obbligatorio); ref (opzionale, IDREFS) 
         * _text_ > ID (obbligatorio, ID) type (opzionale contenuto testuale)
 
+* Esercizio 7: DTD 3
+    * Includere all'interno di un documento XML la dichiarazione del tipo, definire internamente gli attributi e gli elementi e validare 
+    * Inserire nel prologo di un documento XML la dichiarazione del tipo di documento e validare 
+    * Creare un file esterno con estensione .dtd prima di includerlo nel prologo XML 
+
+
 
 
 
