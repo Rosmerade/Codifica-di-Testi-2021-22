@@ -7,7 +7,7 @@ Anno accademico 2021/22
 _wip_
 
 ## Esercizi svolti 
-* Esercizio 1: <b>Prologo</b>
+### Esercizio 1: <b>Prologo</b>
     * Creare un file .xml ed inserire un prologo con la dichiarazione e un commento con le vostre informazioni
 
 * Esercizio 2: <b>xml non annidato</b>
