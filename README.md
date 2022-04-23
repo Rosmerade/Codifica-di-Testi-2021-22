@@ -22,10 +22,11 @@ _wip_
 * Esercizio 4: CDATA 
     * Inserire CDATA all'interno di un frammento di codice HTML  
 
-* Esercizio 5: DTD,  Definire i seguenti elementi:
-    * Elemento root TEI 
-    * Elementi figli:
-        * _header_ obbligatoria una occorrenza 
-        * _facsimile_ opzionale una occorrenza 
-        * _text_ obbligatoria almeno una occorrenza 
+* Esercizio 5: DTD
+    * Definire i seguenti elementi:
+        * Elemento root TEI 
+        * Elementi figli:
+            * _header_ obbligatoria una occorrenza 
+            * _facsimile_ opzionale una occorrenza 
+            * _text_ obbligatoria almeno una occorrenza 
 
