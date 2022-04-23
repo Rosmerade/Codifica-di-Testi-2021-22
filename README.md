@@ -30,3 +30,18 @@ _wip_
             * _facsimile_ opzionale una occorrenza 
             * _text_ obbligatoria almeno una occorrenza 
 
+* Esercizio 6: DTD 2 
+    * Definire elemento root TEI 
+    * Definire elementi figli
+        * _header_ – obbligatorio una sola volta 
+        * _facsimile_ – opzionale una volta sola 
+        * _text_ – obbligatorio una o più volte 
+            * _text_: mixed content con possibile elemento <seg> 
+    * Aggiungendo attributi:
+        * _header_ > type ( fixed, CDATA “intestazione”); lang (opzionale, NMTOKEN)
+        * _facsimile_ > source (obbligatorio); ref (opzionale, IDREFS) 
+        * _text_ > ID (obbligatorio, ID) type (opzionale contenuto testuale)
+
+
+
+
