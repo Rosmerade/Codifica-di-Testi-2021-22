@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- per collegare il DTD bisogna inserire la dichiarazione nel prologo -->
+<!DOCTYPE TEI SYSTEM "EspDTD.dtd">
+
+<!-- body -->
+<TEI>
+<!-- attenzione all'ordine! -->
+    <header> Prova DTD </header> 
+
+    <facsimile></facsimile>
+    <text>Prova testo, prova dtd</text> 
+    
+</TEI> 
