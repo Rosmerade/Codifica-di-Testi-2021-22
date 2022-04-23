@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- esercizio 6
+nomeFile: DTD2.xml 
+Nome: Sara Seidita 579517 
+Matricola: 579517 -->
+<!DOCTYPE TEI SYSTEM "DTD2.dtd">
+
+<TEI>
+    <header type="intestazione">Esercizio 6</header> 
+
+    <facsimile source="sorgente" ref="ident">
+    Facsimile prova 
+    </facsimile> 
+
+    <text id="ident" type="testo"> 
+    Text prova, con ID e Mixed Content 
+    Esercizio svolto il 23 aprile 2022 per il corso di Codifica di Testi.
+
+    <seg>con tag seg</seg>
+    </text>
+</TEI>
