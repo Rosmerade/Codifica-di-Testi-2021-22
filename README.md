@@ -22,5 +22,8 @@ Anno accademico 2021/22
 * Esercizio 4: 
   * Inserire CDATA all'interno di un frammento di codice HTML 
 
+* Esperimento DTD - lezione del 25 marzo 2022
+
+
 <br />
 
