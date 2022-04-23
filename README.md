@@ -24,11 +24,11 @@ Anno accademico 2021/22
 
 * Esercizio 5:
   * Definire i seguenti elementi in un documento DTD: 
-   * Elemento root TEI
-   * Elementi figli: 
-    * header - obbligatoria una occorrenza 
-    * facsimile - opzionale una occorrenza 
-    * text - obbligatoria almeno una occorrenza
+        * Elemento root TEI
+        * Elementi figli: 
+            * header - obbligatoria una occorrenza 
+            * facsimile - opzionale una occorrenza 
+            * text - obbligatoria almeno una occorrenza
 
 
 <br />
