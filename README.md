@@ -22,7 +22,13 @@ Anno accademico 2021/22
 * Esercizio 4: 
   * Inserire CDATA all'interno di un frammento di codice HTML 
 
-* Esperimento DTD - lezione del 25 marzo 2022
+* Esercizio 5:
+  * Definire i seguenti elementi in un documento DTD: 
+   * Elemento root TEI
+   * Elementi figli: 
+    * header - obbligatoria una occorrenza 
+    * facsimile - opzionale una occorrenza 
+    * text - obbligatoria almeno una occorrenza
 
 
 <br />
