@@ -46,6 +46,14 @@ _wip_
     * Includere all'interno di un documento XML la dichiarazione del tipo, definire internamente gli attributi e gli elementi e validare 
     * Inserire nel prologo di un documento XML la dichiarazione del tipo di documento e validare 
     * Creare un file esterno con estensione .dtd prima di includerlo nel prologo XML 
+   
+ * Esercizio 8: TEI 1 
+    * marcare un testo plain text di circa 3000 caratteri a piacere 
+      1 inserire prologo XML 
+      2 marcare la struttura usando gli elementi fin qui descritti in particolare marcare 
+    tutti i paragrafi usando <p> e la struttura editoriale usando <div> 
+      3 verificare che sia ben formato con xmllint ( o xerces con domCounter)
+      4 salvare il file XML su github 
 
 
 
