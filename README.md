@@ -49,11 +49,11 @@ _wip_
    
  * Esercizio 8: TEI 1 
     * marcare un testo plain text di circa 3000 caratteri a piacere 
-      1 inserire prologo XML 
-      2 marcare la struttura usando gli elementi fin qui descritti in particolare marcare 
-    tutti i paragrafi usando <p> e la struttura editoriale usando <div> 
-      3 verificare che sia ben formato con xmllint ( o xerces con domCounter)
-      4 salvare il file XML su github 
+       * inserire prologo XML 
+       * marcare la struttura usando gli elementi fin qui descritti in particolare marcare 
+         tutti i paragrafi usando <p> e la struttura editoriale usando <div> 
+       * verificare che sia ben formato con xmllint ( o xerces con domCounter)
+       * salvare il file XML su github 
 
 
 
