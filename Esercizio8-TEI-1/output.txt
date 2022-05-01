@@ -1,0 +1,1 @@
+./Codifica-di-Testi-2021-22/Esercizio8-TEI-1/plain.xml: 75;8;0 ms (30 elems, 48 attrs, 468 spaces, 3829 chars)
