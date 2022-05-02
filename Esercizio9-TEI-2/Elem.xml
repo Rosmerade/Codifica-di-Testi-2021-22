@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_lite.dtd">
+<!-- struttura documento tei:
+    <TEI> elemento radice 
+    <teiHeader> intestazione 
+    <text> 
+-->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Esercizio 9</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura</resp> 
+                    <name>Sara Seidita</name> <!-- nome -->
+                </respStmt>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Rosmerade</publisher> <!-- nome utente di GitHub -->
+                <date>02 maggio 2022</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>Originale</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text> 
+        <front>
+            <p>Utilizzare puntatori, note, lista, glossario, nomi, rs, term</p>
+        </front>
+
+        <body>
+            <div>
+                <list type="simple"> <!-- schedule settimanale -->
+                    <head>Schedule settimanale</head>
+                    <label>Lunedì</label>
+                    <item>Lezione di Basi di Dati e Codifica dei Testi</item>
+                    <label>Martedì</label>
+                    <item>Visita del <rs type="person">medico</rs> <name>nomeMedico</name></item>
+                    <label>Mercoledì</label>
+                    <item>Lezione di Basi di Dati e Progettazione Grafica</item> 
+                    <label>Giovedì</label>
+                    <item>giorno libero</item>
+                    <label>Venerdì</label>
+                    <item>Lezione di Codifica di Testi</item>
+                </list> 
+            </div>
+
+            <div>
+                <p>Un esempio di puntatore è <ptr target="www.google.it"/>, se è un collegamento esterno</p>
+                <p>Altrimenti, <ptr target="#list"/> per un collegamento interno al testo</p>
+            </div>
+
+            <div>
+                <note n="1">Esempio di una nota</note>
+            </div>
+
+            <div>
+                <p>Gloss è una spiegazione/glossa riguardo il testo, <gloss>Pippo</gloss></p>
+                <p> oppure possiamo utilizzare <term>per un termine tecnico</term> </p>
+            </div>
+        </body>
+    </text>
+</TEI>
