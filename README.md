@@ -54,7 +54,8 @@ _wip_
        * verificare che sia ben formato con xmllint ( o xerces con domCounter)
        * salvare il file XML su github 
 
-
+* Esercizio 9: TEI 2 
+   * Utilizzare puntatori, liste, note, glossari, nomi, rs, term
 
 
 
