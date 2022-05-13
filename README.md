@@ -57,5 +57,6 @@ _wip_
 * Esercizio 9: TEI 2 
    * Utilizzare puntatori, liste, note, glossari, nomi, rs, term
 
-
+* Esercizio 10: Editoriale TEI
+   * Trascrivere e codificare un frammento di lettera di Bellini
 
