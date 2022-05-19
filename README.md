@@ -60,3 +60,7 @@ _wip_
 * Esercizio 10: Editoriale TEI
    * Trascrivere e codificare un frammento di lettera di Bellini
 
+* Esercizio 11: Facsimile 
+   * Trascrivere e codificare di nuovo un frammento di lettera di Bellini, ma utilizzando anche gli elementi facsimile
+   (Collegamento testo-immagine)
+   
