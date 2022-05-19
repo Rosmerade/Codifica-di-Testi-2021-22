@@ -1,0 +1,1 @@
+./Codifica-di-Testi-2021-22/Esercizio11-Facsimile/Facsimile.xml: 148;11;0 ms (79 elems, 218 attrs, 1132 spaces, 1216 chars)
