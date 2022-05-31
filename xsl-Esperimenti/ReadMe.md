@@ -6,4 +6,4 @@ Sono esperimenti che corrispondono agli esempi presenti nelle slide delle lezion
   * Costruire un foglio di stile XSLT con alcune regole di trasformazione e lanciare il comando **java saxon** da terminale
 
 * Esperimento 2: 
-  * _**Esempio elemento value-of**_
+  * Esempio elemento _**value-of**_
