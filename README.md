@@ -63,4 +63,6 @@ _wip_
 * Esercizio 11: Facsimile 
    * Trascrivere e codificare di nuovo un frammento di lettera di Bellini, ma utilizzando anche gli elementi facsimile
    (Collegamento testo-immagine)
-   
+  
+## Esperimenti
+   è possibile trovare una cartella con alcuni esperimenti che corrispondono agli esempi nelle slide con il corrispettivo output
