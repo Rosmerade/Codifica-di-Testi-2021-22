@@ -10,3 +10,6 @@ Sono esperimenti che corrispondono agli esempi presenti nelle slide delle lezion
 
 * Esperimento 3:
   * Esempio elemento _**apply-template**_ con output in file html
+
+* Esperimento 4:
+  * Esempio elemento _**for--each**_ con output in file html
