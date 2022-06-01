@@ -13,3 +13,6 @@ Sono esperimenti che corrispondono agli esempi presenti nelle slide delle lezion
 
 * Esperimento 4:
   * Esempio elemento _**for-each**_ con output in file html
+
+* Esperimento 5:
+  * Esempio elemento _**text**_ con output in file html
