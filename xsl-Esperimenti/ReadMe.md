@@ -7,3 +7,6 @@ Sono esperimenti che corrispondono agli esempi presenti nelle slide delle lezion
 
 * Esperimento 2: 
   * Esempio elemento _**value-of**_ con output in file html
+
+* Esperimento 3:
+  * Esempio elemento _**apply-template**_ con output in file html
