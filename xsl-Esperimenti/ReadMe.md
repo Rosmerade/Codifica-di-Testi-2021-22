@@ -19,3 +19,6 @@ Sono esperimenti che corrispondono agli esempi presenti nelle slide delle lezion
 
 * Esperimento 6:
   * Esempio elemento _**if**_ con output in file html
+
+* Esperimento 7:
+  * Esempio elemento _**sort**_ con output in file html
