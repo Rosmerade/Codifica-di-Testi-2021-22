@@ -1,15 +1,15 @@
-# file img 
+## file img 
 Usato come sfondo per il titolo
 
-# file text 
+## file text 
 Il testo scelto per esercizio 
 
-# file xml 
+## file xml 
 
-# file xsl del template originale 
+## file xsl del template originale 
 
-# file xsl del template modificato
+## file xsl del template modificato
 Piccole modifiche
 
-# file css
+## file css
 Con aggiunta di un file css
