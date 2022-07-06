@@ -4,7 +4,7 @@ _Corso di Codifica di Testi_
 Anno accademico 2021/22
 
 ## Progetto esame 
-_wip_
+[Clicca qua per essere indirizzato alla cartella del progetto!](https://github.com/Rosmerade/progettoEsame-CdT)
 
 ## Esercizi svolti 
 * Esercizio 1: <b>Prologo</b>
